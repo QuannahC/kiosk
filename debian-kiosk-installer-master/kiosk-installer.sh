@@ -67,7 +67,7 @@ do
     --disable-save-password-bubble \
     --disable-session-crashed-bubble \
     --incognito \
-    --kiosk "https://neave.tv/"
+    --kiosk "https://https://docs.google.com/forms/d/e/1FAIpQLSfA4vGX94bJc69iZgLtcvcx03YWxiHvdm_0FHjcKvveM98ZVQ/formResponse/"
   sleep 5
 done &
 EOF
